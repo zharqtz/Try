@@ -55,7 +55,7 @@
 */
 const messages = [
     "Estás segura?",
-    "Muy muy segura???",
+    "muy MUY segura???",
     "Porfavorcito?",
     "Amor porfavor...",
     "Solo piensalo, te amo muto!",
@@ -63,7 +63,17 @@ const messages = [
     "...",
     "amor...",
     "Está bien, pararé...",
-    "Era broma, dale amorcito, porfi💞"
+    "Era broma, dale amorcito, porfi💞",
+    "Dale",
+    "Dale",
+    "Dale",
+    "Dale",
+    "Dale",
+    "Dale",
+    "Dale",
+    "Dale",
+    "esta bien amor, perdon",
+    "pero..."
 ];
 
 let messageIndex = 0;
